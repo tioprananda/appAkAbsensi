@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/tioprananda/appAkAbsensi/issues"
   },
-  "homepage": "https://github.com/tioprananda/appAkAbsensi#readme"
+  "homepage": "https://github.com/tioprananda/appAkAbsensi#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
 }
