@@ -1,0 +1,24 @@
+{
+  "name": "restabsen",
+  "version": "1.0.0",
+  "description": "rest api absensi apotek keluarga",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/tioprananda/appAkAbsensi.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tioprananda/appAkAbsensi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "tyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tioprananda/appAkAbsensi/issues"
+  },
+  "homepage": "https://github.com/tioprananda/appAkAbsensi#readme"
+}
